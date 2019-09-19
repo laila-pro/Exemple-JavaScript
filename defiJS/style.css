@@ -1,0 +1,14 @@
+#carre1{
+  position:absolute;
+  width: 400px;
+  height:400px;
+  background-color: blue;
+
+}
+#carre2{
+  width: 10px;
+  height:10px;
+background-color: red;
+position:relative;
+  display:inline-block;
+}
